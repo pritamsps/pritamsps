@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Pritam , a passionate Web Developer from India
 
 <!--
 **pritamsps/pritamsps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
