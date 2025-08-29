@@ -1,11 +1,11 @@
-### Hi there, I'm [Pritam Sanjay]! 👋
+### Hi there, I'm Pritam Sanjay! 👋
 
 I'm a recent Computer Science graduate from **Vel Tech University** (CGPA: 8.5), passionate about the intersection of **Machine Learning** and **Web Development**. I enjoy building intelligent and scalable applications from the ground up. I'm currently diving deep into computer vision and creating seamless user experiences.
 
 * 🎓 Recently graduated with a Bachelor's in Computer Science.
 * 🔭 Exploring the worlds of **Deep Learning** and **Full-Stack Development**.
 * 🌱 I’m looking to collaborate on open-source projects related to AI or MERN stack applications.
-* 📫 How to reach me: **[pritamsanjays@gmail.com]**
+* 📫 How to reach me: **pritamsanjays@gmail.com**
 
 ---
 
@@ -39,12 +39,12 @@ I'm a recent Computer Science graduate from **Vel Tech University** (CGPA: 8.5),
 
 ---
 
-### 🚀 My Projects
+### 🚀 Notable Projects
 
 | Project Name                                                              | Description                                                                                 | Technologies Used                                                                                             |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **[Awesome CV Project Name](https://github.com/pritamsps/ARDDS_YOLO)** | A computer vision model to classify real-time images with high accuracy.                    | `Python`, `TensorFlow`, `Keras`, `OpenCV`, `Flask`                                                            |
-| **[Cool Web App Name](https://github.com/pritamsps/personalized-content-dashboard)** | A full-stack MERN application for [e.g., social media, task management, e-commerce].          | `React`, `Node.js`, `Express`, `MongoDB`, `REST API`                                                          |
+| **[PaveBuddy - ARDDS](https://github.com/pritamsps/ARDDS_YOLO)** | An AI-powered system using YOLOv8 and Flask to detect and classify road damage in real-time with 87% accuracy.                   | `Python`, `TensorFlow`, `Keras`, `OpenCV`, `Flask`                                                            |
+| **[MyCorner - Personalized Dashboard](https://github.com/pritamsps/personalized-content-dashboard)** | A full-stack personalized content dashboard built with Next.js and TypeScript to aggregate news and media from multiple APIs.         | `React`, `Node.js`, `Express`, `MongoDB`, `REST API`                                                          |
 
 ---
 
