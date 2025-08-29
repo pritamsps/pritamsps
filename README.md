@@ -1,11 +1,11 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm [Pritam Sanjay]! 👋
 
 I'm a recent Computer Science graduate from **VTUU University** (CGPA: 8.5), passionate about the intersection of **Machine Learning** and **Web Development**. I enjoy building intelligent and scalable applications from the ground up. I'm currently diving deep into computer vision and creating seamless user experiences.
 
 * 🎓 Recently graduated with a Bachelor's in Computer Science.
 * 🔭 Exploring the worlds of **Deep Learning** and **Full-Stack Development**.
 * 🌱 I’m looking to collaborate on open-source projects related to AI or MERN stack applications.
-* 📫 How to reach me: **[your.email@example.com]**
+* 📫 How to reach me: **[pritamsanjays@gmail.com]**
 
 ---
 
@@ -43,8 +43,8 @@ I'm a recent Computer Science graduate from **VTUU University** (CGPA: 8.5), pas
 
 | Project Name                                                              | Description                                                                                 | Technologies Used                                                                                             |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **[Awesome CV Project Name](https://github.com/your-username/repo-link-1)** | A computer vision model to classify real-time images with high accuracy.                    | `Python`, `TensorFlow`, `Keras`, `OpenCV`, `Flask`                                                            |
-| **[Cool Web App Name](https://github.com/your-username/repo-link-2)** | A full-stack MERN application for [e.g., social media, task management, e-commerce].          | `React`, `Node.js`, `Express`, `MongoDB`, `REST API`                                                          |
+| **[Awesome CV Project Name](https://github.com/pritamsps/ARDDS_YOLO)** | A computer vision model to classify real-time images with high accuracy.                    | `Python`, `TensorFlow`, `Keras`, `OpenCV`, `Flask`                                                            |
+| **[Cool Web App Name](https://github.com/pritamsps/personalized-content-dashboard)** | A full-stack MERN application for [e.g., social media, task management, e-commerce].          | `React`, `Node.js`, `Express`, `MongoDB`, `REST API`                                                          |
 
 ---
 
@@ -62,4 +62,4 @@ I'm a recent Computer Science graduate from **VTUU University** (CGPA: 8.5), pas
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="
+<a href="https://linkedin.com/in/pritam-sanjay-sps/" target="blank"><img align="center" src="
