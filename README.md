@@ -1,6 +1,6 @@
 ### Hi there, I'm [Pritam Sanjay]! 👋
 
-I'm a recent Computer Science graduate from **VTUU University** (CGPA: 8.5), passionate about the intersection of **Machine Learning** and **Web Development**. I enjoy building intelligent and scalable applications from the ground up. I'm currently diving deep into computer vision and creating seamless user experiences.
+I'm a recent Computer Science graduate from **Vel Tech University** (CGPA: 8.5), passionate about the intersection of **Machine Learning** and **Web Development**. I enjoy building intelligent and scalable applications from the ground up. I'm currently diving deep into computer vision and creating seamless user experiences.
 
 * 🎓 Recently graduated with a Bachelor's in Computer Science.
 * 🔭 Exploring the worlds of **Deep Learning** and **Full-Stack Development**.
@@ -52,8 +52,9 @@ I'm a recent Computer Science graduate from **VTUU University** (CGPA: 8.5), pas
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pritamsps&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamsps&layout=compact&theme=tokyonight" alt="Top Languages" />
+    
   </a>
 </p>
 
