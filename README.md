@@ -43,8 +43,8 @@ I'm a recent Computer Science graduate from **Vel Tech University** (CGPA: 8.5),
 
 | Project Name                                                              | Description                                                                                 | Technologies Used                                                                                             |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **[PaveBuddy - ARDDS](https://github.com/pritamsps/ARDDS_YOLO)** | An AI-powered system using YOLOv8 and Flask to detect and classify road damage in real-time with 87% accuracy.                   | `Python`, `TensorFlow`, `Keras`, `OpenCV`, `Flask`                                                            |
-| **[MyCorner - Personalized Dashboard](https://github.com/pritamsps/personalized-content-dashboard)** | A full-stack personalized content dashboard built with Next.js and TypeScript to aggregate news and media from multiple APIs.         | `React`, `Node.js`, `Express`, `MongoDB`, `REST API`                                                          |
+| **[PathBuddy - ARDDS](https://github.com/pritamsps/ARDDS_YOLO)** | An AI-powered system using YOLOv8 and Flask to detect and classify road damage in real-time with 87% accuracy.                   | `Python`, `TensorFlow`, `Keras`, `OpenCV`, `Flask`                                                            |
+| **[MyKura - Personalized Dashboard](https://github.com/pritamsps/personalized-content-dashboard)** | A full-stack personalized content dashboard built with Next.js and TypeScript to aggregate news and media from multiple APIs.         | `React`, `Node.js`, `Express`, `MongoDB`, `REST API`                                                          |
 
 ---
 
